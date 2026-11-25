@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rizveez.github.io/ebike/sitemap.xml
